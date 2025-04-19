@@ -1,0 +1,12 @@
+tensorflow
+numpy
+fastapi
+pillow
+uvicorn
+streamlit
+geopy
+folium
+streamlit-folium
+python-dotenv
+opencage
+overpy

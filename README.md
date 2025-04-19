@@ -116,9 +116,10 @@ This will launch a browser-based UI for:
 
 ---
 
-For Dataset Visit Kaggle:
+- For Dataset Visit Kaggle:
 https://www.kaggle.com/datasets/akshat103/e-waste-image-dataset
 ---
-For API KEY visit OpenCage:
+- For API KEY visit OpenCage:
 https://opencagedata.com/
+---
 

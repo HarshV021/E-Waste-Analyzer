@@ -25,18 +25,16 @@ This project is a full-stack AI solution that combines deep learning, API develo
 
 ### ✅ 1. Install dependencies
 
-```bash
+
 pip install -r requirements.txt
 
----
 
 ### ✅ 2. Train the Model (Optional)
 
 If you want to retrain the model:
 
-```bash
 python newtrainedmodel.py
-```
+
 
 This will train a CNN on your dataset and save the best-performing model as `e_waste_classifier.keras`.
 
@@ -115,3 +113,5 @@ This will launch a browser-based UI for:
   ```
 
 ---
+For Dataset Visit Kaggle
+For API KEY visit OpenCage

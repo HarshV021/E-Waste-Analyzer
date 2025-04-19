@@ -1,4 +1,4 @@
-# --- main.py (updated FastAPI backend) ---
+#main : fastapi based backend
 from fastapi import FastAPI, File, UploadFile
 from fastapi.responses import JSONResponse
 import numpy as np

@@ -94,6 +94,7 @@ This will launch a browser-based UI for:
   ```env
   OPEN_CAGE_API=your_opencage_api_key
   ```
+-Make Sure You Paste Your Key in .env file
 
 - Ensure `dataset/train` and `dataset/val` are structured as:
   ```
